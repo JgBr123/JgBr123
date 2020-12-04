@@ -9,8 +9,8 @@
 -->
 
 - 🌱 I’m currently learning **Next.js and React Native**
-- 💻 I have **0 projects** available at my **page**. 
-- 📫 How to reach me:
+- 💻 I have **0 projects** available at my [**page**](https://jgbr123.github.io)
+- 📫 How to reach me: [Telegram](https://t.me/JgBr123)
 - ⚡ Fun fact: I started programming at **12 years old**
 -->
 
